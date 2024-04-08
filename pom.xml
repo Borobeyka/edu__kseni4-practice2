@@ -15,6 +15,11 @@
                 <configuration>
                     <source>1.8</source>
                     <target>1.8</target>
+                    <archive>
+                        <manifest>
+                            <mainClass>your.package.MainClass</mainClass> <!-- замените на ваш класс -->
+                        </manifest>
+                    </archive>
                 </configuration>
             </plugin>
         </plugins>
