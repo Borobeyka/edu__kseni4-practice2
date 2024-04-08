@@ -17,7 +17,7 @@
                     <target>1.8</target>
                     <archive>
                         <manifest>
-                            <mainClass>your.package.MainClass</mainClass> <!-- замените на ваш класс -->
+                            <mainClass>your.package.MainClass</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
