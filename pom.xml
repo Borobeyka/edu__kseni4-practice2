@@ -17,7 +17,7 @@
                     <target>1.8</target>
                     <archive>
                         <manifest>
-                            <mainClass>your.package.MainClass</mainClass>
+                            <mainClass>HelloWorld</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
