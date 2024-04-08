@@ -15,9 +15,6 @@
                 <configuration>
                     <source>1.8</source>
                     <target>1.8</target>
-                    <includes>
-                        <include>HelloWorld.java</include>
-                    </includes>
                 </configuration>
             </plugin>
             <plugin>
@@ -27,7 +24,8 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>HelloWorld</mainClass>
+                            <addClasspath>true</addClasspath>
+                            <mainClass>com.example.HelloWorld</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
