@@ -24,7 +24,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>com.example.HelloWorld</mainClass>
+                            <mainClass>HelloWorld</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
